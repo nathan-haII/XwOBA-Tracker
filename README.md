@@ -10,14 +10,14 @@ statistical modelling, visualization, and an interactive Shiny app.
 
 ## Results
 <!-- Fill this in after you run the project. Replace the bracketed parts with your real numbers. -->
-![Gap persistence](figures/gap_persistence.png)
+![Gap persistence](XwOBA_figure_3.png)
 
 - Across [N] hitter-season pairs, the luck gap carried over with a slope of [X] (R² = [Y]), meaning [your interpretation].
 - On the held-out [YEAR] to [YEAR+1] test, [best model] had the lowest error (RMSE [Z]) versus [baseline] ([Z2]).
 - Current Blue Jays hitters furthest above and below expectation: [names].
 
-![Model comparison](figures/model_comparison.png)
-![Blue Jays gap](figures/bluejays_gap.png)
+![Model comparison](XwOBA_figure_1.png)
+![Blue Jays gap](XwOBA_figure_2.png)
 
 ## How it works
 | Step | Script | What it does |
