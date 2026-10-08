@@ -9,13 +9,8 @@ statistical modelling, visualization, and an interactive Shiny app.
 3. Which stat best predicts a hitter's next-season wOBA: last season's wOBA, last season's xwOBA, or a blend?
 
 ## Results
-<!-- Fill this in after you run the project. Replace the bracketed parts with your real numbers. -->
+
 ![Gap persistence](XwOBA_figure_3.png)
-
-- Across [N] hitter-season pairs, the luck gap carried over with a slope of [X] (R² = [Y]), meaning [your interpretation].
-- On the held-out [YEAR] to [YEAR+1] test, [best model] had the lowest error (RMSE [Z]) versus [baseline] ([Z2]).
-- Current Blue Jays hitters furthest above and below expectation: [names].
-
 ![Model comparison](XwOBA_figure_1.png)
 ![Blue Jays gap](XwOBA_figure_2.png)
 
